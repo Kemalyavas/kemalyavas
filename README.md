@@ -1,19 +1,21 @@
-<h1 align="center">Merhaba, ben Ali Kemal Yavaş 👋</h1>
-<h3 align="center">Yapay Zeka Destekli Uygulamalar Geliştiren Bir Yazılım Mühendisliği Öğrencisi</h3>
+<h1 align="center">Hi, I'm Ali Kemal Yavaş 👋</h1>
+<h3 align="center">A Software Engineering Student Developing AI-Powered Applications</h3>
 
 ---
 
 <p align="left">
-  🎓 Kocaeli Üniversitesi'nde 4. sınıf <b>Yazılım Mühendisliği</b> öğrencisiyim.
+  🎓 I'm a senior <b>Software Engineering</b> student at Kocaeli University.
   <br/>
-  🧠 Özellikle <b>Yapay Zeka (AI)</b> ve <b>Makine Öğrenmesi</b> alanlarına büyük bir ilgi duyuyor ve projelerimde bu teknolojileri kullanmaktan keyif alıyorum.
+  🧠 I have a strong passion for <b>Artificial Intelligence (AI)</b> and <b>Machine Learning</b>, and I enjoy using these technologies in my projects.
   <br/>
-  🚀 Şu anda aktif olarak geliştirdiğim ve yayınladığım yapay zeka tabanlı bir platform olan <a href="https://tezai.com.tr" target="_blank"><b>TezAI.com.tr</b></a> üzerinde çalışıyorum.
+  🚀 I am the creator of <a href="https://tezai.com.tr" target="_blank"><b>TezAI.com.tr</b></a>, an AI-based platform that I'm actively developing.
+  <br/>
+  💼 You can see my other projects on my personal portfolio: <a href="https://kemalyavas.github.io/Portfolyo/" target="_blank"><b>kemalyavas.github.io/Portfolyo</b></a>
 </p>
 
 ---
 
-<h3 align="left">🚀 Kullandığım Teknolojiler:</h3>
+<h3 align="left">🚀 My Tech Stack:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -24,17 +26,8 @@
 </p>
 ---
 
-<h3 align="left">📬 Bana Ulaşın:</h3>
+<h3 align="left">📬 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kemalyavaas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-hesabin" height="30" width="40" /></a>
-  <a href="kemalyavaass@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail-adresin" height="30" width="40" /></a>
-  </p>
-
----
-
-<h3 align="left">📊 GitHub İstatistiklerim:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalyavas&show_icons=true&locale=tr&theme=dark" alt="kemalyavas" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemalyavas&layout=compact&locale=tr&theme=dark" alt="kemalyavas" />
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-kemal-yavas-linkedin" height="30" width="40" /></a>
+  <a href="https://kemalyavas.github.io/Portfolyo/" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/FFFFFF/domain.png" alt="portfolio-website" height="30" width="30"/></a>
 </p>
