@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali Kemal Yavaş 👋</h1>
+<h1 align="center">Hi, I'm Kemal Yavaş 👋</h1>
 <h3 align="center">A Software Engineering Student Developing AI-Powered Applications</h3>
 
 ---
