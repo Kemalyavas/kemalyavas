@@ -4,7 +4,7 @@
 ---
 
 <p align="left">
-  🎓 I'm a senior <b>Software Engineering</b> student at Kocaeli University.
+  🎓 I'm a <b>Software Engineering</b> student at Kocaeli University.
   <br/>
   🧠 I have a strong passion for <b>Artificial Intelligence (AI)</b> and <b>Machine Learning</b>, and I enjoy using these technologies in my projects.
   <br/>
