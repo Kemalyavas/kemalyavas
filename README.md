@@ -1,9 +1,5 @@
 <h1 align="center">Kemal Yavaş</h1>
-<h3 align="center">Full Stack Developer • AI Integration Specialist</h3>
-
-<p align="center">
-  Building AI-powered applications that solve real business problems.
-</p>
+<h3 align="center">Full Stack Developer | AI Integration</h3>
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~016544c646cef66bec">
@@ -16,65 +12,57 @@
 
 ---
 
-### About Me
+### About
 
-Software Engineering student at Kocaeli University. I build full-stack web applications with AI capabilities — chatbots, document analysis, real-time data processing.
+Full stack developer building web applications with AI capabilities. I specialize in React/Next.js frontends, Node.js and Python backends, and integrating AI into real business workflows.
 
-I've completed 8+ projects on Upwork with 100% Job Success, working with clients from the US and enterprise companies in Turkey.
-
----
-
-### What I Build
-
-**AI-Powered Systems**
-- Enterprise chatbots with function calling and RAG
-- Document analysis platforms
-- Intelligent workflow automation
-
-**Web Applications**
-- React/Next.js frontends with TypeScript
-- Node.js and Python backends
-- Real-time 3D experiences with Three.js
+All my freelance clients have been satisfied with my work. I deliver clean code, communicate clearly, and meet deadlines.
 
 ---
 
-### Featured Projects
+### What I Work On
 
-**🏠 Property Inspection Platform**  
-AI-powered reporting system with image annotation, defect analysis, and PDF generation.  
-`Next.js` `TypeScript` `OpenAI API` `PostgreSQL` `Cloudflare R2`
+**AI Integration**  
+Enterprise chatbots, document analysis, workflow automation using OpenAI API and function calling.
 
-**🤖 Enterprise AI Chatbot**  
-Multi-tenant chatbot with 13 tool functions — product search, sales analysis, discount management.  
+**Web Applications**  
+Modern frontends with React/Next.js, REST APIs, database design, authentication systems.
+
+**3D Web Experiences**  
+Interactive visualizations with Three.js, performance optimization for large-scale rendering.
+
+---
+
+### Recent Projects
+
+**Property Inspection Platform**  
+Reporting system with image annotation, AI-powered defect analysis, PDF/HTML export, 360° photo viewing.  
+`Next.js` `TypeScript` `OpenAI API` `PostgreSQL`
+
+**Enterprise AI Chatbot**  
+Multi-tenant chatbot for a B2B company. 13 tool functions including product search, sales analytics, and discount management.  
 `Python` `FastAPI` `OpenAI Assistants` `Function Calling` `React`
 
-**🌌 Duygu Evreni**  
-Anonymous emotion-sharing platform. 3D visualization with 10,000+ simultaneous instances.  
-`Next.js` `Three.js` `TypeScript` `InstancedMesh`
-
-**📄 TezAI**  
-AI document analyzer for academic research and thesis writing.  
-`Next.js` `Supabase` `OpenAI API`
+**Duygu Evreni**  
+Anonymous emotion-sharing platform where emotions appear as stars orbiting themed planets. Optimized Three.js rendering with InstancedMesh for 10,000+ simultaneous objects.  
+`Next.js` `Three.js` `TypeScript`
 
 ---
 
 ### Tech Stack
 
 ```
-Frontend    →  React, Next.js, TypeScript, Three.js, Tailwind CSS
-Backend     →  Node.js, Python, FastAPI, Spring Boot
-Database    →  PostgreSQL, MongoDB, Supabase
-AI          →  OpenAI API, Claude API, RAG, Function Calling, Assistants API
-DevOps      →  Docker, Vercel, Git
+Frontend    React, Next.js, TypeScript, Three.js, Tailwind CSS
+Backend     Node.js, Python, FastAPI, Spring Boot
+Database    PostgreSQL, MongoDB, Supabase
+AI          OpenAI API, Claude API, RAG, Function Calling, Assistants API
+Tools       Docker, Vercel, Git
 ```
 
 ---
 
-### Let's Connect
+### Contact
 
-<p>
-  <a href="mailto:kemalyavaas@gmail.com">📧 kemalyavaas@gmail.com</a><br/>
-  <a href="https://www.upwork.com/freelancers/~016544c646cef66bec">💼 Upwork Profile</a><br/>
-  <a href="https://www.linkedin.com/in/kemalyavaas">🔗 LinkedIn</a><br/>
-  <a href="https://tezai.com.tr">🌐 TezAI</a>
-</p>
+📧 kemalyavaas@gmail.com  
+💼 [Upwork](https://www.upwork.com/freelancers/~016544c646cef66bec)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kemalyavaas)
