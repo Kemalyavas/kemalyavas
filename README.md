@@ -1,43 +1,80 @@
-<h1 align="center">Hi, I'm Kemal Yavaş 👋</h1>
-<h3 align="center">A Software Engineering Student Developing AI-Powered Applications</h3>
+<h1 align="center">Kemal Yavaş</h1>
+<h3 align="center">Full Stack Developer • AI Integration Specialist</h3>
 
----
+<p align="center">
+  Building AI-powered applications that solve real business problems.
+</p>
 
-<p align="left">
-  
-  🎓 I'm a <b>Software Engineering</b> student at Kocaeli University.
-  <br/>
-  
-  🧠 I have a strong passion for <b>Artificial Intelligence (AI)</b> and <b>Machine Learning</b>, and I enjoy using these technologies in my projects.
-  <br/>
-  
-  🚀 Actively working as a freelance developer on **Upwork**, where I build AI-powered applications and modern web solutions.(https://www.upwork.com/freelancers/~016544c646cef66bec)
-  <br/>
-  
-  🚀 I am the creator of <a href="https://tezai.com.tr" target="_blank"><b>TezAI.com.tr</b></a>, an AI-based platform that I'm actively developing.
-  <br/>
-  
-  💼 You can see my other projects on my personal portfolio: <a href="https://kemalyavas.github.io/Portfolyo/" target="_blank"><b>kemalyavas.github.io/Portfolyo</b></a>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~016544c646cef66bec">
+    <img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork Top Rated"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kemalyavaas">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🚀 My Tech Stack:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.upwork.com/freelancers/kemalyavaas" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Profile"/>
-</a>
-</p>
+### About Me
+
+Software Engineering student at Kocaeli University. I build full-stack web applications with AI capabilities — chatbots, document analysis, real-time data processing.
+
+I've completed 8+ projects on Upwork with 100% Job Success, working with clients from the US and enterprise companies in Turkey.
+
 ---
 
-<h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-kemal-yavas-linkedin" height="30" width="40" /></a>
-  <a href="https://kemalyavas.github.io/Portfolyo/" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/FFFFFF/domain.png" alt="portfolio-website" height="30" width="30"/></a>
+### What I Build
+
+**AI-Powered Systems**
+- Enterprise chatbots with function calling and RAG
+- Document analysis platforms
+- Intelligent workflow automation
+
+**Web Applications**
+- React/Next.js frontends with TypeScript
+- Node.js and Python backends
+- Real-time 3D experiences with Three.js
+
+---
+
+### Featured Projects
+
+**🏠 Property Inspection Platform**  
+AI-powered reporting system with image annotation, defect analysis, and PDF generation.  
+`Next.js` `TypeScript` `OpenAI API` `PostgreSQL` `Cloudflare R2`
+
+**🤖 Enterprise AI Chatbot**  
+Multi-tenant chatbot with 13 tool functions — product search, sales analysis, discount management.  
+`Python` `FastAPI` `OpenAI Assistants` `Function Calling` `React`
+
+**🌌 Duygu Evreni**  
+Anonymous emotion-sharing platform. 3D visualization with 10,000+ simultaneous instances.  
+`Next.js` `Three.js` `TypeScript` `InstancedMesh`
+
+**📄 TezAI**  
+AI document analyzer for academic research and thesis writing.  
+`Next.js` `Supabase` `OpenAI API`
+
+---
+
+### Tech Stack
+
+```
+Frontend    →  React, Next.js, TypeScript, Three.js, Tailwind CSS
+Backend     →  Node.js, Python, FastAPI, Spring Boot
+Database    →  PostgreSQL, MongoDB, Supabase
+AI          →  OpenAI API, Claude API, RAG, Function Calling, Assistants API
+DevOps      →  Docker, Vercel, Git
+```
+
+---
+
+### Let's Connect
+
+<p>
+  <a href="mailto:kemalyavaas@gmail.com">📧 kemalyavaas@gmail.com</a><br/>
+  <a href="https://www.upwork.com/freelancers/~016544c646cef66bec">💼 Upwork Profile</a><br/>
+  <a href="https://www.linkedin.com/in/kemalyavaas">🔗 LinkedIn</a><br/>
+  <a href="https://tezai.com.tr">🌐 TezAI</a>
 </p>
